@@ -1,0 +1,12 @@
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\SeçiliKoltuklar\SeçiliKoltuklar\bin\Debug\SeçiliKoltuklar.exe.config
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\SeçiliKoltuklar\SeçiliKoltuklar\bin\Debug\SeçiliKoltuklar.exe
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\SeçiliKoltuklar\SeçiliKoltuklar\bin\Debug\SeçiliKoltuklar.pdb
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\SeçiliKoltuklar\SeçiliKoltuklar\bin\Debug\SeçiliKoltuklar.xml
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\SeçiliKoltuklar\SeçiliKoltuklar\obj\Debug\SeçiliKoltuklar.vbproj.AssemblyReference.cache
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\SeçiliKoltuklar\SeçiliKoltuklar\obj\Debug\SeçiliKoltuklar.Form1.resources
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\SeçiliKoltuklar\SeçiliKoltuklar\obj\Debug\SeçiliKoltuklar.Resources.resources
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\SeçiliKoltuklar\SeçiliKoltuklar\obj\Debug\SeçiliKoltuklar.vbproj.GenerateResource.cache
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\SeçiliKoltuklar\SeçiliKoltuklar\obj\Debug\SeçiliKoltuklar.vbproj.CoreCompileInputs.cache
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\SeçiliKoltuklar\SeçiliKoltuklar\obj\Debug\SeçiliKoltuklar.exe
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\SeçiliKoltuklar\SeçiliKoltuklar\obj\Debug\SeçiliKoltuklar.xml
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\SeçiliKoltuklar\SeçiliKoltuklar\obj\Debug\SeçiliKoltuklar.pdb
